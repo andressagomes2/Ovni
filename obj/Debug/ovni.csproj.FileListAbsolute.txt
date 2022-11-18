@@ -1,0 +1,13 @@
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\bin\Debug\ovni.exe.config
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\bin\Debug\ovni.exe
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\bin\Debug\ovni.pdb
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\obj\Debug\ovni.csproj.AssemblyReference.cache
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\obj\Debug\ovni.csproj.SuggestedBindingRedirects.cache
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\obj\Debug\ovni.form1.resources
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\obj\Debug\ovni.Gerenciador.resources
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\obj\Debug\ovni.Inicializador.resources
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\obj\Debug\ovni.Properties.Resources.resources
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\obj\Debug\ovni.csproj.GenerateResource.cache
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\obj\Debug\ovni.csproj.CoreCompileInputs.cache
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\obj\Debug\ovni.exe
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\ovni\ovni\obj\Debug\ovni.pdb
